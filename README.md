@@ -7,12 +7,12 @@
 <!-- HEADER BANNER
      Optional: generate a custom banner at https://capsule-render.vercel.app
      Then replace the URL below with your generated image link. -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Your+Name]&fontColor=fff&fontSize=48)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Aleandro+Capulong]&fontColor=fff&fontSize=48)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
 ### Hey there! I'm Aleandro. 👋
 
-> [A short quote or motto that represents you — or just delete this line]
+> Something tells me you didn't actually look it up...
 
 I'm a **3-A Computer Science student** at Angeles University Foundation.
 I love turning ideas into code, especially when it involves making video games.
