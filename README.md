@@ -14,7 +14,7 @@
 
 > Something tells me you didn't actually look it up...
 
-I'm a **3-A Computer Science student** at Angeles University Foundation.
+I'm a **2026-2027 Computer Science student** at Angeles University Foundation.
 I love turning ideas into code, especially when it involves making video games.
 
 ---
