@@ -14,7 +14,7 @@
 
 > Something tells me you didn't actually look it up...
 
-I'm a **2026-2027 Computer Science student** at Angeles University Foundation.
+I'm a **2026-2027 Computer Science Student** at Angeles University Foundation.
 I love turning ideas into code, especially when it involves making video games.
 
 ---
@@ -25,7 +25,7 @@ I love turning ideas into code, especially when it involves making video games.
 ## What I'm up to
 
 - 🔨 Building → A split array of potential starting points
-- 📖 Learning → C# Game Programming
+- 📖 Learning → C# Video Game Programming
 - 🤝 Open to → Learning, Collaboration, Idea Exploration
 - 🎯 Goal this year → Get something BIG down as a definitive progress report
 
@@ -39,10 +39,10 @@ I love turning ideas into code, especially when it involves making video games.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
+<!--
 **Web & frameworks**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)-->
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,8 +83,8 @@ const [yourName] = {
 ## Find me online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Flygon019)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:capulong.aleandroseth@student.auf.edu.ph)
 
 <!-- ============================================================
      TIP: The waving banner at the top uses capsule-render.
